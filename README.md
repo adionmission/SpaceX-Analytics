@@ -1,7 +1,7 @@
 # SpaceX Analytics
 
 ![Github Repo License](https://img.shields.io/github/license/adionmission/SpaceX-Analytics)
-![Github Repo Release](https://img.shields.io/github/release-date/adionmission/SpaceX-Analytics)
+![GitHub Release Date](https://img.shields.io/github/release-date/adionmission/SpaceX-Analytics)
 ![Github Repo Size](https://img.shields.io/github/repo-size/adionmission/SpaceX-Analytics)
 
 ![SapceX Wallpaper](Images/Falcon-Heavy-Demo.jpg)
